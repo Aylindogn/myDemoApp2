@@ -1,1 +1,1 @@
-This project is about learning how to use Maven, Heroku, Travis and GitHub.
+This project is about learning how to use Maven, Travis and GitHub.
